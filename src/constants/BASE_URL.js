@@ -1,0 +1,1 @@
+export default "https://easley-dinamica-projeto-final-back.onrender.com"
